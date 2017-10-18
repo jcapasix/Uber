@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Uber Driver/Uber Driver.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Uber Rider/Uber Rider.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Uber Driver/Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Uber Rider/Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
