@@ -13,4 +13,10 @@
    <FileRef
       location = "group:Uber Rider/Pods/Pods.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Uber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
 </Workspace>

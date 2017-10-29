@@ -39,7 +39,4 @@ class DBProvider{
         
     }
     
-    func destroy() {
-        DBProvider.Instance = nil
-    }
 }
